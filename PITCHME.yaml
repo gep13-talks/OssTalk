@@ -2,3 +2,7 @@ theme : beige
 theme-override : assets/css/PITCHME.css
 footnote : "@gep13"
 gatoken : UA-20926037-2
+logo:
+logo-position: top-right
+highlight : atom-one-dark
+layout: center
