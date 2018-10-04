@@ -99,6 +99,8 @@
 
 ## Make a Pull Request
 
+* [Example](https://cakebuild.net/faq/)
+
 +++
 
 @title[Be Patient]
