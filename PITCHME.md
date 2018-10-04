@@ -57,7 +57,7 @@
 * GitHub
 * GitLab
 * BitBucket
-* Azure DevOp (formerly known as VSTS)
+* Azure DevOps (formerly known as VSTS)
 * Linux
 
 ---
