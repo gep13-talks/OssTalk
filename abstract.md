@@ -1,3 +1,6 @@
+# Getting started with OSS
+## A beginners guide
+
 So, you want to contribute to an open source project, or you want to start your own open source project...
 
 This is great news, and a fantastic opportunity to learn new things and collaborate with other like minded people.
