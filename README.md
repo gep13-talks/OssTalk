@@ -1,3 +1,5 @@
 # Getting Started with OSS
 
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gep13/OssTalk/master)
+| Date                    | Conference/User Group                                                               | Code                 | Slides           |
+|-------------------------|-------------------------------------------------------------------------------------|----------------------|------------------|
+| 23rd October 2021       | [Hacktoberfest Scotland 2021](https://hacktoberfest.scot/)                          |                      |                  |
